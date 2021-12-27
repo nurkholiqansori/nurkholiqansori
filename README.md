@@ -1,9 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**nurkholiqansori/nurkholiqansori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Someone who loves web since Junior High School and likes to edit CSS, HTML by himself. Used to use ReactJS and NextJS and also tried React Native. I used to make a company profile web. You can find me on <a href='http://www.linkedin.com/in/nurkholiqansori' title='My Linkedin'>LinkedIn</a> or can send me Email.
 
-Here are some ideas to get you started:
+## 🔧 Technologies and Tools
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-TailWind&nbsp;CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
