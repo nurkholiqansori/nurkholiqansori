@@ -18,4 +18,4 @@ Someone who loves web since Junior High School and likes to edit CSS, HTML by hi
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 
 
-🌱 I’m currently learning ReactNative, FullStack NextJS, and FireBase
+🌱 I’m currently learning ReactNative, FullStack NextJS, FireBase and Strapi.
