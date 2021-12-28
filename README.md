@@ -20,5 +20,3 @@ Someone who loves web since Junior High School and likes to edit CSS, HTML by hi
 
 
 🌱 I’m currently learning ReactNative, TypeScript, FullStack NextJS, FireBase and Strapi.
-
-...
