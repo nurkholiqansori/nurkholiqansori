@@ -16,7 +16,7 @@ Someone who loves web since Junior High School and likes to edit CSS, HTML by hi
 ![](https://img.shields.io/badge/Styling-Bulma-informational?style=flat&logo=bulma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 
 
