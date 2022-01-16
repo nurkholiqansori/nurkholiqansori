@@ -13,6 +13,7 @@ Someone who loves web since Junior High School and likes to edit CSS, HTML by hi
 ![](https://img.shields.io/badge/Styling-Tailwind&nbsp;CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Styling-Styled&nbsp;Components-informational?style=flat&logo=styled-components&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Styling-Material&nbsp;UI-informational?style=flat&logo=mui&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-Bulma&nbsp;Pro-informational?style=flat&logo=mui&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
