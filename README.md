@@ -20,4 +20,4 @@ Someone who loves web since Junior High School and likes to edit CSS, HTML by hi
 ![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)
 
 
-🌱 I’m currently learning ReactNative, TypeScript, FullStack NextJS, FireBase and Headless CMS like GhostCMS.
+🌱 I’m currently learning TypeScript, FireBase and Headless CMS like GhostCMS.
