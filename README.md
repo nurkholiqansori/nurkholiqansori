@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-#### My Name is Nur Kholiq Ansori
+## My Name is Nur Kholiq Ansori
 
 Someone who loves web since Junior High School and likes to edit CSS, HTML by himself. Used to use ReactJS and NextJS and also tried React Native. I used to make a company profile web. You can find me on [LinkedIn](http://www.linkedin.com/in/nurkholiqansori "My Linkedin") or can send me Email (nurkholiqansori8@gmail.com). For full information about me, can go to my website on [my website](https://www.nurkholiqansori.me "My Website").
 
-## 🔧 Tools
+# 🔧 Tools
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a "HTML 5")
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
@@ -19,5 +19,5 @@ Someone who loves web since Junior High School and likes to edit CSS, HTML by hi
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)
 
-
+# Study
 🌱 I’m currently learning TypeScript, FireBase and Headless CMS like GhostCMS.
