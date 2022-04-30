@@ -1,4 +1,4 @@
-# Hi there :raised_hand:
+# Hi there 👋
 
 ## 👤 My Name is Nur Kholiq Ansori
 
