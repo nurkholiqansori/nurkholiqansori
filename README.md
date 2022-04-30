@@ -1,10 +1,10 @@
 # Hi there :raised_hand:
 
-## :bust_in_silhouette: My Name is Nur Kholiq Ansori
+## 👤 My Name is Nur Kholiq Ansori
 
 Someone who loves web since Junior High School and likes to edit CSS, HTML by himself. Used to use ReactJS and NextJS and also tried React Native. I used to make a company profile web. You can find me on [LinkedIn](http://www.linkedin.com/in/nurkholiqansori "My Linkedin") or can send me Email <nurkholiqansori8@gmail.com\>. For full information about me, can go to my website on [my website](https://www.nurkholiqansori.me "My Website").
 
-# :computer: Tools
+# 💻 Tools
 
 ## Language
 
@@ -43,6 +43,6 @@ Someone who loves web since Junior High School and likes to edit CSS, HTML by hi
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
-# :four_leaf_clover: Study
+# 🍀 Study
 
 I’m currently learning Typescript, Docker and Headless CMS like Ghost.
