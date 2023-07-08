@@ -29,4 +29,4 @@ I usually use React.js and Next.js. Studying React.js since 2021 where I am stud
 
 # 🍀 Study
 
-I’m currently learning Typescript, Docker and Headless CMS like Ghost.
+I’m currently learning Docker, React Native and Headless CMS like Ghost.
